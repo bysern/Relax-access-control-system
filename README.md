@@ -14,7 +14,8 @@ membership access card"
 Use the package manager [npm](https://nodejs.org/en/download/) to install foobar.
 
 ```bash
- npm i relax-access-ernest12```
+ npm i relax-access-ernest12 
+ ```
 
 ## Centre Site Plan
 ![centre site plan image](https://github.com/bysern/Relax-access-control-system/blob/master/CentreSitePlan.PNG?raw=true)
