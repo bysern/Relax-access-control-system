@@ -47,4 +47,6 @@ class Zone {
     getCards(): Array<Card> {
         return this.cards;
     }
+
+    isCardInside = (card: Card): boolean => this.cards.includes(card);
 }
